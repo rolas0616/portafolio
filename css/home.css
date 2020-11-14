@@ -19,7 +19,7 @@ h1 {
   color: #000000;
 }
 .image {
-  background-image: url('https://rolas0616.github.io/portafolio/img/back.jpg');
+  background-image: url('./img/back.jpg');
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
